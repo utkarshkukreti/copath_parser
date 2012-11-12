@@ -1,0 +1,21 @@
+01/01/01  S01-12345 20/111-22-1001 A.  PROSTATE AND SEMINAL VESICLES, PROSTATECTOMY:                           
+                                   TOTAL GLEASON SCORE:  GLEASON 5+4=9                                     
+                   
+01/02/02  S02-1234 20/111-22-1002 PROSTATE AND SEMINAL VESICLES, PROSTATECTOMY:      
+                                    GLEASON SCORE:  3 + 3 = 6 WITH TERTIARY PATTERN OF 5.                   
+                                   
+05/02/03  S03-1234  31/111-22-1003 PROSTATECTOMY:  ADENOCARCINOMA, GLEASON GRADE 4+3=7.             
+                                   GLEASON SCORE:  7=4+3.                                                      
+
+07/17/04  S04-123  30/111-22-1004  C)  RADICAL PROSTATECTOMY: ADENOCARCINOMA.                                    
+                                       GLEASON SCORE:  3+4-7.                                                  
+
+01/28/05  S05-1234  20/111-22-1005 PROSTATECTOMY:                                                              
+                                        PROSTATIC ADENOCARCINOMA, GLEASON SCORE 7 [3+4].                       
+                                                  
+07/18/06  S06-10686 20/111-22-1006 A.  PROSTATE AND SEMINAL VESICLES, PROSTATECTOMY:
+                                       TOTAL GLEASON SCORE:  GLEASON 4+3 WITH TERTIARY GLEASON PATTERN 5       
+
+02/22/07  S07-2749  20/111-22-1007 A.  PROSTATE AND SEMINAL VESICLES, PROSTATECTOMY:
+                                       HISTOLOGIC PATTERN:  GLEASON SCORE 6 (3+3)        
+
